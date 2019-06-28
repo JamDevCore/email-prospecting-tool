@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.App {
+  padding: 50px 10px;
+}
+
+.search {
+  height: 300px;
+}
+
+
+.card {
+  min-height: 275;
+  display: flex;
+  flex-direction: column;
+  }
+  input {
+    margin-top: 50;
+    width: 200;
+    margin: 50px auto 10px auto;
+  }
+  button {
+    width: 200;
+    margin: 10px auto 10px auto;
+}
